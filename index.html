@@ -1,1 +1,104 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Noya's</title>
+    <link rel="stylesheet" type="text/css" href="css.css" />
+  </head>
+  <body>
+    <h1>
+      <a
+        href=""
+        class="typewrite"
+        data-period="2000"
+        data-type='[ "Hi, Im Noya.", "I am Simple.", "I Love the World.", "I am rooted, but I flow." ]'
+      >
+        <span class="wrap"></span>
+      </a>
+    </h1>
+    <!-- <h2>About me</h2> -->
+    <!-- <div class="typewriter"> -->
+      <p>INFP</p>
+      <!-- <p>I'm rooted, but I flow.</p> -->
+    <!-- </div> -->
+
+    <div class="calculator">
+      <h2>Simple Calculator</h2>
+      <input type="number" id="num1" placeholder="Enter first number" />
+      <input type="number" id="num2" placeholder="Enter second number" />
+
+      <div>
+        <button onclick="calculate('add')">Add</button>
+        <button onclick="calculate('subtract')">Subtract</button>
+      </div>
+      <div>
+        <button onclick="calculate('multiply')">Multiply</button>
+        <button onclick="calculate('divide')">Divide</button>
+      </div>
+
+      <div id="result"></div>
+    </div>
+  </body>
+  <script src="javascript.js"></script>
+  <script>
+    var TxtType = function (el, toRotate, period) {
+      this.toRotate = toRotate;
+      this.el = el;
+      this.loopNum = 0;
+      this.period = parseInt(period, 10) || 2000;
+      this.txt = "";
+      this.tick();
+      this.isDeleting = false;
+    };
+
+    TxtType.prototype.tick = function () {
+      var i = this.loopNum % this.toRotate.length;
+      var fullTxt = this.toRotate[i];
+
+      if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+      } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+      }
+
+      this.el.innerHTML = '<span class="wrap">' + this.txt + "</span>";
+
+      var that = this;
+      var delta = 200 - Math.random() * 100;
+
+      if (this.isDeleting) {
+        delta /= 2;
+      }
+
+      if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+      } else if (this.isDeleting && this.txt === "") {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+      }
+
+      setTimeout(function () {
+        that.tick();
+      }, delta);
+    };
+
+    window.onload = function () {
+      var elements = document.getElementsByClassName("typewrite");
+      for (var i = 0; i < elements.length; i++) {
+        var toRotate = elements[i].getAttribute("data-type");
+        var period = elements[i].getAttribute("data-period");
+        if (toRotate) {
+          new TxtType(elements[i], JSON.parse(toRotate), period);
+        }
+      }
+      // INJECT CSS
+      var css = document.createElement("style");
+      css.type = "text/css";
+      css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+      document.body.appendChild(css);
+    };
+  </script>
+</html>
