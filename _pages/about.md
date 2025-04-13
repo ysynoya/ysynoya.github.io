@@ -22,7 +22,7 @@ I am now working on mega sport events' sustainability and urban environment for 
 
 I received the B.S. and Ph.D. degrees in Cartography and Geographic Information System from East China Normal University, advised by Bailang Yu (余柏蒗) and Jianping Wu (吴健平).
 
-My research interest includes statictical modelling on spatial data targeting urban issues. I have published more than 10 related papers  `<a href='https://scholar.google.com.hk/citations?user=mrqlJg8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">``</a>`.
+My research interest includes statictical modelling on spatial data targeting urban issues.
 
 # 🔥 News
 
