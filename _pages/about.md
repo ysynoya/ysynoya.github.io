@@ -38,17 +38,12 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 **Siyi Yu**, Xizhi Zhao, Jinlong Ma, Yujian Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) `<strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'> </strong>`
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) <strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'> </strong>
 
-- This study employs nighttime light remote sensing data to analyze 209 Winter Olympic Game venues. Results indicate that 32.06% of venues exhibit a significant increase in activity, while 12.92% experience a decline significantly.
+- This study employs nighttime light remote sensing data to analyze 209 global Winter Olympic venues' post-Game activity.
 
 </div>
 </div>
-
-S. Yu, X. Zhao, J. Ma and Y. Liu, "Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2025.3557274.
-keywords: {Games;Urban areas;Sports;Remote sensing;Market research;Economics;Satellite images;Monitoring;Sustainable development;Optical sensors;Nighttime light remote sensing;olympic legacy;winter olympic games},
-
-
 
 - S. Yu, X. Zhao, J. Ma and Y. Liu, [Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data](https://ieeexplore.ieee.org/document/10948147), **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, doi: 10.1109/JSTARS.2025.3557274.
 
