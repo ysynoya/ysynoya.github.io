@@ -18,7 +18,7 @@ redirect_from:
 
 I work at Shanghai University of Sport as a lecturer teaching data science.
 
-I am now working on mega sport events' sustainability and urban environment for sport and fitness using multi-source data. If you are seeking any form of academic coorperation, please feel free to email me at [yusiyi@sus.edu.cn](mailto:ren.yi@bytedance.com). Students who are interested in data science in sport events and public service system for sports and fitness are also welcome to apply for a master's degree.
+I am now working on mega sport events' sustainability and urban environment for sport and fitness using multi-source data. If you are seeking any form of academic coorperation, please feel free to email me at [yusiyi@sus.edu.cn](mailto:yusiyi@sus.edu.cn). Students who are interested in data science in sport events and public service system for sports and fitness are also welcome to apply for a master's degree.
 
 I received the B.S. and Ph.D. degrees in Cartography and Geographic Information System from East China Normal University, advised by Bailang Yu (余柏蒗) and Jianping Wu (吴健平).
 
@@ -31,7 +31,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/JSTARS2025.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/JSTARS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10948147)
