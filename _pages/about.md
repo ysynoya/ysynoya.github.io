@@ -31,14 +31,14 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10948147)
 
 **Siyi Yu**, Xizhi Zhao, Jinlong Ma, Yujian Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>`
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) `<strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'>``</strong>`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
@@ -51,17 +51,19 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 # 🎖 Honors and Awards
 
-- *2024.05* STRing  won 2nd prize in the 2024 RoboCup China Open in soccer SPL group.
+- *2024.05* STRing won 2nd prize in the 2024 RoboCup China Open in soccer SPL group.
 
 # 📖 Educations
 
-- *2015.09 - 2020.06*, Doctor of Philosophy, East China Normal University, Shanghai, China.
+- *2013.09 - 2020.06*, Doctor of Philosophy, East China Normal University, Shanghai, China.
 - *2017.09 - 2019.02*, Visiting Scholar, Louisiana State University, Baton Rouge, USA.
+- *2009.09 - 2013.06*, Undergraduate, East China Normal University, Shanghai, China.
 
-# 💬 Invited Talks and Conference presentations
+# 💬 Invited Talks and Conference Presentations
 
-- *2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.10*, 数据驱动视角的城市体育资源观察, Shanghai.
+- *2018.04*, Relationships between three-dimensional landscape pattern metrics and land surface temperature, Annual Meeting of the Association of American Geographers (AAG), New Orleans, Louisiana.
+- *2016.04*, How much GREEN can U see on a floor - Floor Green View Index: an indicator for quantifying visibility of urban vegetation using remotely sensed images and GIS, Annual Meeting of the Association of American Geographers (AAG), San Francisco, California.
 
 # 💻 Internships
 
