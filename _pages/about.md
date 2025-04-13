@@ -42,6 +42,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 - This study employs nighttime light remote sensing data to analyze 209 global Winter Olympic venues' post-Game activity. Results indicate that 32.06% exhibit a significant increase, while 12.92% experience a significant decline in activity. 
 </div>
+</div>
 - S. Yu, X. Zhao, J. Ma and Y. Liu, [Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data](https://ieeexplore.ieee.org/document/10948147), **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2025, doi: 10.1109/JSTARS.2025.3557274.
 
 
@@ -55,6 +56,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:k_IJM867U9cC) <span class='show_paper_citations' data='mrqlJg8AAAAJ:k_IJM867U9cC'>
 
 - Quantify the three-dimensional urban landscape pattern with landscape metrics. Find out the importance of 3D landscape pattern to land surface temperature.
+</div>
 </div>
 - S. Yu, Z. Chen, B. Yu*, L. Wang, B. Wu, J. Wu, [Exploring the relationship between 2D/3D landscape pattern and land surface temperature: A case study of Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0048969720317423), **Science of the total environment**, 2020, 725:138229. doi: 10.1016/j.scitotenv.2020.138229
 
