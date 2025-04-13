@@ -31,14 +31,14 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/JSTARS2025.tif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Illuminating Legacy: Tracking the Utilization Pattern of Winter Olympic Venues via Nighttime Light Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10948147)
 
 **Siyi Yu**, Xizhi Zhao, Jinlong Ma, Yujian Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) `<strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'>``</strong>`
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) `<strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'>` `</strong>`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
