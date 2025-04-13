@@ -38,7 +38,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 **Siyi Yu**, Xizhi Zhao, Jinlong Ma, Yujian Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) <strong><span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'> </strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:4OULZ7Gr8RgC) `<span class='show_paper_citations' data='mrqlJg8AAAAJ:4OULZ7Gr8RgC'>`
 
 - This study employs nighttime light remote sensing data to analyze 209 global Winter Olympic venues' post-Game activity.
 
