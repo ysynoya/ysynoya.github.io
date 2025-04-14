@@ -73,8 +73,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 - A new indicator named Floor Green View Index (FGVI) is proposed for quantifying visual amenity of urban vegetation defined as the area of visible urban vegetation observed from a certain floor in a building. 
 </div>
 </div>
-- Yu, S., [View-based greenery: A three-dimensional assessment of city buildings’ green visibility using Floor Green View Index](https://www.sciencedirect.com/science/article/pii/S0169204616300329), **Landscape and Urban Planning**,2016, 152: 13-26. doi:
-- S. Yu, Z. Chen, B. Yu*, L. Wang, B. Wu, J. Wu, [Exploring the relationship between 2D/3D landscape pattern and land surface temperature: A case study of Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0048969720317423), **Science of the total environment**, 2020, 725:138229. doi: 10.1016/j.landurbplan.2016.04.004
+- Yu, S., [View-based greenery: A three-dimensional assessment of city buildings’ green visibility using Floor Green View Index](https://www.sciencedirect.com/science/article/pii/S0169204616300329), **Landscape and Urban Planning**,2016, 152: 13-26. doi: 10.1016/j.landurbplan.2016.04.004
 
 # 🎖 Honors and Awards
 
