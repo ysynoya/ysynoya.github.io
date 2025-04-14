@@ -60,6 +60,22 @@ My research interest includes statictical modelling on spatial data targeting ur
 </div>
 - S. Yu, Z. Chen, B. Yu*, L. Wang, B. Wu, J. Wu, [Exploring the relationship between 2D/3D landscape pattern and land surface temperature: A case study of Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0048969720317423), **Science of the total environment**, 2020, 725:138229. doi: 10.1016/j.scitotenv.2020.138229
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land Urb Plan 2016</div><img src='images/LAND2016.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[View-based greenery: A three-dimensional assessment of city buildings’ green visibility using Floor Green View Index](https://www.sciencedirect.com/science/article/pii/S0169204616300329)
+
+**Siyi YU**, Bailang YU, Wei SONG, Bin WU, Jianhua ZHOU, Yan HUANG, Jianping WU, Feng ZHAO, Weiqing MAO
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:u5HHmVD_uO8C) <span class='show_paper_citations' data='mrqlJg8AAAAJ:u5HHmVD_uO8C'>
+
+- A new indicator named Floor Green View Index (FGVI) is proposed for quantifying visual amenity of urban vegetation defined as the area of visible urban vegetation observed from a certain floor in a building. 
+</div>
+</div>
+- Yu, S., [View-based greenery: A three-dimensional assessment of city buildings’ green visibility using Floor Green View Index](https://www.sciencedirect.com/science/article/pii/S0169204616300329), **Landscape and Urban Planning**,2016, 152: 13-26. doi:
+- S. Yu, Z. Chen, B. Yu*, L. Wang, B. Wu, J. Wu, [Exploring the relationship between 2D/3D landscape pattern and land surface temperature: A case study of Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0048969720317423), **Science of the total environment**, 2020, 725:138229. doi: 10.1016/j.landurbplan.2016.04.004
+
 # 🎖 Honors and Awards
 
 - *2024.05* STRing won 2nd prize in the 2024 RoboCup China Open in soccer SPL group.
