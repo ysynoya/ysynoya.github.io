@@ -27,7 +27,7 @@ My research interest includes statistical modelling on spatial data targeting ur
 # 🔥 News
 
 - *2025.04*: &nbsp;🎉🎉 One Paper accepted by JSTARS about Winter Olympic Venues' post-Game utilization using nighttime light data.
-- *2024.05*: &nbsp;🎉🎉 STRing  won 1st prize in the 2024 RoboCup China Open in soccer SPL group.
+- *2024.05*: &nbsp;🎉🎉 STRing won 1st prize (runner-up) in the 2024 RoboCup China Open in soccer SPL group.
 
 # 📝 Publications
 
@@ -77,7 +77,7 @@ My research interest includes statistical modelling on spatial data targeting ur
 
 # 🎖 Honors and Awards
 
-- *2024.05* STRing won 2nd prize in the 2024 RoboCup China Open in soccer SPL group.
+- *2024.05* Team Advisor for 2024 RoboCup China Open in soccer SPL group. Provided technical guidance and strategic coaching to a student team that won 1st prize (second place) in a national-level robotics contest.
 
 # 📖 Educations
 
