@@ -18,16 +18,16 @@ redirect_from:
 
 I work at Shanghai University of Sport as a lecturer teaching data science.
 
-I am now working on mega sport events' sustainability and urban environment for sport and fitness using multi-source data. If you are seeking any form of academic coorperation, please feel free to email me at [yusiyi@sus.edu.cn](mailto:yusiyi@sus.edu.cn). Students who are interested in data science in sport events and public service system for sports and fitness are also welcome to apply for a master's degree.
+I am now working on mega sports events' sustainability and urban environment for sports and fitness using multi-source data. If you are seeking any form of academic cooperation, please feel free to email me at [yusiyi@sus.edu.cn](mailto:yusiyi@sus.edu.cn). Students who are interested in data science in sports events and the public service system for sports and fitness are also welcome to apply for a master's degree.
 
-I received the B.S. and Ph.D. degrees in Cartography and Geographic Information System from East China Normal University, advised by Bailang Yu (余柏蒗) and Jianping Wu (吴健平).
+I received the B.S. and Ph.D. degrees in Cartography and Geographic Information System from East China Normal University, advised by Bailang Yu (余柏蒗) and Jianping Wu (吴健平), respectively.
 
-My research interest includes statictical modelling on spatial data targeting urban issues.
+My research interest includes statistical modelling on spatial data targeting urban issues.
 
 # 🔥 News
 
 - *2025.04*: &nbsp;🎉🎉 One Paper accepted by JSTARS about Winter Olympic Venues' post-Game utilization using nighttime light data.
-- *2024.05*: &nbsp;🎉🎉 STRing  won 2nd prize in the 2024 RoboCup China Open in soccer SPL group.
+- *2024.05*: &nbsp;🎉🎉 STRing  won 1st prize in the 2024 RoboCup China Open in soccer SPL group.
 
 # 📝 Publications
 
@@ -55,7 +55,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:k_IJM867U9cC) <span class='show_paper_citations' data='mrqlJg8AAAAJ:k_IJM867U9cC'>
 
-- Quantify the three-dimensional urban landscape pattern with landscape metrics. Find out the importance of 3D landscape pattern to land surface temperature.
+- Quantify the three-dimensional urban landscape pattern with landscape metrics. Find out the importance of the 3D landscape pattern to land surface temperature.
 </div>
 </div>
 - S. Yu, Z. Chen, B. Yu*, L. Wang, B. Wu, J. Wu, [Exploring the relationship between 2D/3D landscape pattern and land surface temperature: A case study of Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0048969720317423), **Science of the total environment**, 2020, 725:138229. doi: 10.1016/j.scitotenv.2020.138229
@@ -70,7 +70,7 @@ My research interest includes statictical modelling on spatial data targeting ur
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mrqlJg8AAAAJ&citation_for_view=mrqlJg8AAAAJ:u5HHmVD_uO8C) <span class='show_paper_citations' data='mrqlJg8AAAAJ:u5HHmVD_uO8C'>
 
-- A new indicator named Floor Green View Index (FGVI) is proposed for quantifying visual amenity of urban vegetation defined as the area of visible urban vegetation observed from a certain floor in a building. 
+- A new indicator named Floor Green View Index (FGVI) is proposed to quantify the visual amenity of urban vegetation, defined as the area of visible urban vegetation observed from a certain floor in a building. 
 </div>
 </div>
 - Yu, S., [View-based greenery: A three-dimensional assessment of city buildings’ green visibility using Floor Green View Index](https://www.sciencedirect.com/science/article/pii/S0169204616300329), **Landscape and Urban Planning**,2016, 152: 13-26. doi: 10.1016/j.landurbplan.2016.04.004
