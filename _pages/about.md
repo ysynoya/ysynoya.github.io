@@ -77,6 +77,7 @@ My research interest includes statistical modelling on spatial data targeting ur
 
 # 🎖 Honors and Awards
 
+- *2025.05* Team Advisor for 2025 RoboCup China Open in soccer SPL group. Provided technical guidance and strategic coaching to a student team that won 3rd prize in a national-level robotics contest.
 - *2024.05* Team Advisor for 2024 RoboCup China Open in soccer SPL group. Provided technical guidance and strategic coaching to a student team that won 1st prize (second place) in a national-level robotics contest.
 
 # 📖 Educations
