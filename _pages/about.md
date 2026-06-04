@@ -25,9 +25,8 @@ I received the B.S. and Ph.D. degrees in Cartography and Geographic Information 
 My research interest includes statistical modelling on spatial data targeting urban issues.
 
 # 🔥 News
-
-- *2025.04*: &nbsp;🎉🎉 One Paper accepted by JSTARS about Winter Olympic Venues' post-Game utilization using nighttime light data.
-- *2024.05*: &nbsp;🎉🎉 STRing won 1st prize (runner-up) in the 2024 RoboCup China Open in soccer SPL group.
+- *2026.04*: &nbsp;🎉🎉 One Paper accepted by Statistical Analysis and Data Mining about Bayesian Dirichlet Process Copula Mixtures for Heterogeneous Multi-Cluster Data.
+- *2026.05*: &nbsp;🎉🎉 STArt won 1st prize (Champion) in the 2026 RoboCup China Open in soccer SPL group.
 
 # 📝 Publications
 
